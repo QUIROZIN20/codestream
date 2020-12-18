@@ -5,7 +5,7 @@ body {
 
 .header {
   align-items: center;
-  background-color: black;
+  background-color: #21c08b;
   color: white;
   display: flex;
   height: 100px;
@@ -98,7 +98,7 @@ body {
 
 .footer {
   align-items: center;
-  background-color: yellow;
+  background-color: #8f57fd;
   display: flex;
   height: 100px;
   width: 100%;
